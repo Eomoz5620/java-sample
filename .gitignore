@@ -1,0 +1,44 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven
+target/
+!target/classes/
+!target/test-classes/
+!.mvn/
+.mvn/wrapper/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# MacOS
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# OS Files
+Thumbs.db
+ehthumbs.db
+
+# IntelliJ
+*.iws
+.idea/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+nbproject/
+
+# Maven Wrapper
+mvnw
+mvnw
